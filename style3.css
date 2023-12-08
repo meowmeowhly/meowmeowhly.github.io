@@ -1,0 +1,142 @@
+div {
+
+	border: 6px solid; 
+	padding: 10px;
+	color: #FFF;
+
+}
+
+body {
+
+	background-color: #CFCDB6;
+
+}
+
+p   {
+	font-family: Bell MT;
+	border: 2px solid; 
+}
+
+
+h1 {
+
+	color: #dbd9d9;
+	text-align: center;
+	font-size: 62px;
+	width: 88%;
+	border: 4px solid #FFF; 
+	background-color: #FFF;
+        padding: 10px;
+
+}
+
+h2 {
+
+	color: #dbd9d9;
+	text-align: center;
+	font-size: 62px;
+	width: 88%;
+	border: 4px solid #FFF; 
+	background-color: #FFF;
+        padding: 10px;
+
+}
+
+
+h3 {
+
+	color: #fff;
+	text-align: center;
+	font-size: 30px;
+	width: 88%;
+        padding: 10px;
+	margin-bottom: 5px;
+	border: 2px solid;
+
+}
+
+p {
+	color: #fff;
+	text-align: center;
+	font-size: 25px;
+	padding: 20px;
+
+}
+
+img {
+
+ 	margin-left: auto;
+  	margin-right: auto;
+  	width: 100%;
+	text-align: center
+	object-fit: cover;
+
+}
+
+.container {
+
+ 	position: relative;
+ 	text-align: center;
+  	color: white;
+}
+
+.centered {
+
+	position: absolute;
+  	top: 50%;
+ 	left: 50%;
+	font-size: 95px;
+  	transform: translate(-50%, -50%);
+
+}
+
+ul {
+
+  	list-style-type: none;
+ 	margin: 0;
+ 	padding: 0;
+
+}
+
+.navbar {
+
+  	overflow: hidden;
+  	background-color: #000000;
+  	position: fixed;
+ 	top: 0px; 
+  	width: 100%;  
+
+}
+
+.navbar a {
+
+  	float: right;
+  	display: block;
+  	color: #f2f2f2;
+  	text-align: center;
+  	padding: 14px 16px;
+  	text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+}
+
+
+li {
+  margin: 0 10px;
+}
+
+
+a {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  display: block;
+}
+
+
+a:hover {
+  background-color: #555;
+}
